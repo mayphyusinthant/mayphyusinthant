@@ -6,13 +6,24 @@
 - 📫 [Visit my porfolio for more details] <https://www.linkedin.com/in/may-phyu-st-069b0a2a4/>
 
 <h6> Professional Skills </h6>
-<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/6f0390b7-c265-403f-a174-37e7b421eaba" alt="HTML Logo" width="50" height="50">
-
-![image](https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/6f0390b7-c265-403f-a174-37e7b421eaba)
-![image](https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/ffedede6-b18f-40b7-8dec-1686a601189f)
-![image](https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/435a6296-63e9-4161-aabe-3b5920f264b9)
-![image](https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/16aa432a-f879-4077-8eac-708d117793b5)
-![image](https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/082c65aa-ac1e-49d7-96f5-1ce295a7542a)
-
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/919ed5c8-2058-49d2-972a-9ad3fea75e6c" alt="HTML Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/e9b6acc4-1fab-4b83-9c81-c3ace299795c" alt="CSS Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/80b1c4a9-6a1f-43e2-be21-e81d02ec113c" alt="JS Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/5382afe8-abff-4461-af04-02e5d4e9dddb" alt="Bootstrap" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/54bee355-67e4-41c9-a366-358d0493d81a" alt="JQuery Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/56782ffe-e4d7-433b-8b98-d809796f4358" alt="JSON Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/4c6d3fbd-51a0-4a40-a0ca-7530cf920248" alt="AJAX Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/7a725d8c-1918-4680-85fa-0fa6c4a4a7e2" alt="Responsive Web Design" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/0993993d-7f3b-4866-a76e-32bf062ebe72" alt="Figma Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/793600e2-f905-4c9c-8f94-572137dafad4" alt="PHP Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/919ed5c8-2058-49d2-972a-9ad3fea75e6c" alt="HTML Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/88fba063-482b-4eb1-8fd3-410321476006" alt="Laravel Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/293a4b4e-4fe7-413d-b9c2-a34229343950" alt="React JS Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/729e9f8f-dde6-430c-8b45-dbf75a80d97f" alt="API" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/9a1101ea-858b-481c-bd09-09329925036d" alt="MYSQL Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/9ebcf610-a886-47b3-9eb5-3bb4a70ac36f" alt="Microsoft Access Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/347d7ac9-371d-457c-93c2-426198bb8787" alt="Firebase Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/944d8890-3843-434c-bb3f-cc6456ea33e0" alt="GitHub" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/bfc9e118-247a-4651-a15b-4c54fe03220d" alt="Bitbucket " width="50" height="50">
 
 
