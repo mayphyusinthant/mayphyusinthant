@@ -6,7 +6,7 @@
 - 📫 [Visit my porfolio for more details] <https://www.linkedin.com/in/may-phyu-st-069b0a2a4/>
 
 <h6> Professional Skills </h6>
-<img src="[url_to_html_logo](https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/6f0390b7-c265-403f-a174-37e7b421eaba)" alt="HTML Logo" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/6f0390b7-c265-403f-a174-37e7b421eaba" alt="HTML Logo" width="50" height="50">
 
 ![image](https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/6f0390b7-c265-403f-a174-37e7b421eaba)
 ![image](https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/ffedede6-b18f-40b7-8dec-1686a601189f)
