@@ -20,11 +20,11 @@
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/793600e2-f905-4c9c-8f94-572137dafad4" alt="PHP Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/88fba063-482b-4eb1-8fd3-410321476006" alt="Laravel Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/293a4b4e-4fe7-413d-b9c2-a34229343950" alt="React JS Logo" width="50" height="50">
-<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/729e9f8f-dde6-430c-8b45-dbf75a80d97f" alt="API" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/729e9f8f-dde6-430c-8b45-dbf75a80d97f" alt="API" width="80" height="50">
 <h5> Other Programming Language Skills </h5>
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/117399e6-639f-4eaf-b730-da8cb6adfde9" alt="Java" width="50" height="50">
-<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/2792b4a2-3eaa-48f4-9b35-7b393a539b7f" alt="Java" width="50" height="50">
-<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/d49eabe2-eaa2-4f47-ba28-cc37a63e130b" alt="Java" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/2792b4a2-3eaa-48f4-9b35-7b393a539b7f" alt="Python" width="50" height="50">
+<img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/d49eabe2-eaa2-4f47-ba28-cc37a63e130b" alt="Flask" width="80" height="50">
 <h5> Relational & Non-Relational Database </h5>
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/9a1101ea-858b-481c-bd09-09329925036d" alt="MYSQL Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/9ebcf610-a886-47b3-9eb5-3bb4a70ac36f" alt="Microsoft Access Logo" width="50" height="50">
