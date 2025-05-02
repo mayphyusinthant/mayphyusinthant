@@ -37,6 +37,6 @@
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/944d8890-3843-434c-bb3f-cc6456ea33e0" alt="GitHub" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/bfc9e118-247a-4651-a15b-4c54fe03220d" alt="Bitbucket " width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/277637a5-18f2-4d59-b2ac-fdf24b2a9aa6" alt="Trello " width="50" height="50">
-<img src="https://github.com/user-attachments/assets/412865e2-6cc5-47f6-ba3a-81c3ee09736b" alt="Agile Methodology" width="50" height="75">
+<img src="https://github.com/user-attachments/assets/412865e2-6cc5-47f6-ba3a-81c3ee09736b" alt="Agile Methodology" width="auto" height="50">
 
 
