@@ -1,12 +1,19 @@
 - 👋 Hi, I’m May Phyu ! ✨✨
 - ✨ Web Developer & Database Administrator ✨
-- 👀 I’m especailly fascinated in developing web applications, backend web development as well as database management.
-- 🌱 I’m currently interested in research about Machine Learning and Argumented Reality.
-- 💞️ [Visit my porfolio for more details] <https://mayphyusin-portfolio.netlify.app>
-- 📫 [Visit my porfolio for more details] <https://www.linkedin.com/in/may-phyu-st-069b0a2a4/>
+- 👀 I’m especially fascinated in developing web applications, backend web development as well as database management.
+- 🌱 I’m currently interested in research about Machine Learning and Augmented Reality.
+- 💞️ Portfolio: Explore more about me on my portfolio. <https://mayphyusin-portfolio.netlify.app>
+- 📫 LinkedIn: Connect with me on LinkedIn. <https://www.linkedin.com/in/may-phyu-st-069b0a2a4/>
+
+![May Phyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayphyusinthant&show_icons=true&theme=radical)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/may-phyu-st-069b0a2a4/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=netlify&logoColor=white)](https://mayphyusin-portfolio.netlify.app)
 
 <h4> Professional Skills </h4>
 <h5> Front-end design & development skills </h5>
+I specialize in responsive and modern UI/UX designs using tools like Figma, Tailwind, Bootstrap, Pre-Processor (e.g., SCSS) and JavaScript, JQuery for Dynamic Websites.
+
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/919ed5c8-2058-49d2-972a-9ad3fea75e6c" alt="HTML Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/e9b6acc4-1fab-4b83-9c81-c3ace299795c" alt="CSS Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/80b1c4a9-6a1f-43e2-be21-e81d02ec113c" alt="JS Logo" width="50" height="50">
@@ -19,6 +26,7 @@
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/7a725d8c-1918-4680-85fa-0fa6c4a4a7e2" alt="Responsive Web Design" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/0993993d-7f3b-4866-a76e-32bf062ebe72" alt="Figma Logo" width="50" height="50">
 <h5> Back-end design & development skills </h5>
+I develop robust and scalable applications using variety of backend technologies such as PHP Laravel, Laravel Jetstream, Python Flask, C#, .NET Framework, React Project depending on project scope and requirements.
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/793600e2-f905-4c9c-8f94-572137dafad4" alt="PHP Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/88fba063-482b-4eb1-8fd3-410321476006" alt="Laravel Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/293a4b4e-4fe7-413d-b9c2-a34229343950" alt="React JS Logo" width="50" height="50">
