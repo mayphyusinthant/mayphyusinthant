@@ -11,6 +11,8 @@
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/e9b6acc4-1fab-4b83-9c81-c3ace299795c" alt="CSS Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/80b1c4a9-6a1f-43e2-be21-e81d02ec113c" alt="JS Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/5382afe8-abff-4461-af04-02e5d4e9dddb" alt="Bootstrap" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/ff4dfcdd-dccb-4818-8fca-252943db7f08" alt="Tailwind" width="50" height="50">
+
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/54bee355-67e4-41c9-a366-358d0493d81a" alt="JQuery Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/56782ffe-e4d7-433b-8b98-d809796f4358" alt="JSON Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/4c6d3fbd-51a0-4a40-a0ca-7530cf920248" alt="AJAX Logo" width="50" height="50">
