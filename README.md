@@ -11,7 +11,7 @@
 <h4> ✨ Professional Skills ✨ </h4>
 <h5> ✨ Front-end design & development skills </h5>
 I specialize in responsive and modern UI/UX designs using tools like Figma, Tailwind, Bootstrap, Pre-Processor (e.g., SCSS) and JavaScript, JQuery for Dynamic Websites.
-
+<br>
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/919ed5c8-2058-49d2-972a-9ad3fea75e6c" alt="HTML Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/e9b6acc4-1fab-4b83-9c81-c3ace299795c" alt="CSS Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/80b1c4a9-6a1f-43e2-be21-e81d02ec113c" alt="JS Logo" width="50" height="50">
@@ -24,7 +24,7 @@ I specialize in responsive and modern UI/UX designs using tools like Figma, Tail
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/7a725d8c-1918-4680-85fa-0fa6c4a4a7e2" alt="Responsive Web Design" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/0993993d-7f3b-4866-a76e-32bf062ebe72" alt="Figma Logo" width="50" height="50">
 <h5> ✨ Back-end design & development skills </h5>
-I develop robust and scalable applications using variety of backend technologies such as PHP Laravel, Laravel Jetstream, Python Flask, C#, .NET Framework, React Project depending on project scope and requirements.
+I develop robust and scalable applications using variety of backend technologies such as PHP Laravel, Laravel Jetstream, Python Flask, C#, .NET Framework, React Project depending on project scope and requirements.<br>
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/793600e2-f905-4c9c-8f94-572137dafad4" alt="PHP Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/88fba063-482b-4eb1-8fd3-410321476006" alt="Laravel Logo" width="50" height="50">
 <img src="https://github.com/mayphyusinthant/mayphyusinthant/assets/154217638/293a4b4e-4fe7-413d-b9c2-a34229343950" alt="React JS Logo" width="50" height="50">
