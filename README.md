@@ -2,8 +2,8 @@
 - ✨ Web Developer & Database Administrator ✨
 - 👀 I’m especially fascinated in developing web applications, backend web development as well as database management.
 - 🌱 I’m currently interested in developing Web Applications integrated with AI and Machine Learning.
-- 💞️ Portfolio: Explore more about me on my portfolio. [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/may-phyu-st-069b0a2a4/)
-- 📫 LinkedIn: Connect with me on LinkedIn. [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=netlify&logoColor=white)](https://mayphyusin-portfolio.netlify.app)
+- 💞️ Portfolio: Explore more about me on my portfolio. [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=netlify&logoColor=white)](https://mayphyusin-portfolio.netlify.app)
+- 📫 LinkedIn: Connect with me on LinkedIn. [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/may-phyu-st-069b0a2a4/)
 
     ![May Phyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayphyusinthant&show_icons=true&theme=radical)
 
