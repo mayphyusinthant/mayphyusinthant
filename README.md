@@ -1,5 +1,5 @@
 - 👋 Hi, I’m May Phyu ! ✨✨
-- ✨ Web Developer & Database Administrator ✨
+- ✨ Full Stack Web Developer | Exploring ML/AI Technologies ✨
 - 👀 I’m especially fascinated in developing web applications, backend web development as well as database management.
 - 🌱 I’m currently interested in developing Web Applications integrated with AI and Machine Learning.
 - 💞️ Portfolio: Explore more about me on my portfolio. [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=netlify&logoColor=white)](https://mayphyusin-portfolio.netlify.app)
